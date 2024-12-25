@@ -7,5 +7,14 @@ Build a complete e-commerce platform that looks like Blinkit using the MERN stac
 ![Alt text](Demo%201.gif?raw=true "demo1")
 ![Alt text](Demo%202.gif?raw=true "demo2")
 
+
+## Technology Stack
+
+- **Frontend**: React, Tailwind CSS, Redux
+- **Backend**: Express.js, MongoDB
+- **Image Handling**: Multer, Cloudinary
+- **Payment Gateway**: Stripe
+- **Email Service**: Resend
+
 # Assets File
 Google Drive : https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing
