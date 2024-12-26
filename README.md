@@ -1,23 +1,55 @@
+# Blinkit-like E-Commerce Platform  
 
-![Alt text](Thumnails.png?raw=true "Title")
+![Alt text](Thumnails.png?raw=true "Project Thumbnail")
 
-Build a complete e-commerce platform that looks like Blinkit using the MERN stack! In this project, I have created an online shopping site with key features, including product uploads, an admin panel, and management for categories and subcategories. We will use access and refresh tokens to establish secure user authentication. You will also learn how to set up password recovery, OTP-based email verification, and secure authentication processes. This project is a great way to improve your skills in MongoDB, Express, React, and Node.js.
+Build a complete e-commerce platform that looks like Blinkit using the **MERN** stack!  
+In this project, I have created an online shopping site with key features, including:  
+- **Product Uploads**  
+- **Admin Panel**  
+- **Category and Subcategory Management**  
 
-# Demo 
-![Alt text](Demo%201.gif?raw=true "demo1")
-![Alt text](Demo%202.gif?raw=true "demo2")
+We use **access and refresh tokens** for secure user authentication. The project also includes:  
+- Password recovery  
+- OTP-based email verification  
+- Secure authentication processes  
 
+This project is a great way to improve your skills in **MongoDB, Express, React, and Node.js**.
 
-## Technology Stack
+---
 
-- **Frontend**: React, Tailwind CSS, Redux
-- **Backend**: Express.js, MongoDB
-- **Image Handling**: Multer, Cloudinary
-- **Payment Gateway**: Stripe
-- **Email Service**: Resend
+## Demo  
 
-# Assets File
-Google Drive :
- https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing
-#Schema Design
-Link :[Schema.pdf](https://github.com/user-attachments/files/18254021/Schema.pdf)
+![Alt text](Demo%201.gif?raw=true "Demo 1")  
+![Alt text](Demo%202.gif?raw=true "Demo 2")  
+
+---
+
+## Technology Stack  
+
+### Frontend  
+- **React**  
+- **Tailwind CSS**  
+- **Redux**  
+
+### Backend  
+- **Express.js**  
+- **MongoDB**  
+
+### Additional Features  
+- **Image Handling**: Multer, Cloudinary  
+- **Payment Gateway**: Stripe  
+- **Email Service**: Resend  
+
+---
+
+## Assets File  
+
+**Google Drive Link**:  
+[Download Assets](https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing)  
+
+---
+
+## Schema Design  
+
+**Schema PDF**:  
+[View Schema Design](https://github.com/user-attachments/files/18254021/Schema.pdf)  
