@@ -40,29 +40,15 @@ We use **access and refresh tokens** for secure user authentication. The project
 ---
 
 # Server configuration
-
-Port for the server to listen on
 PORT=8080
-
- MongoDB URI (Replace with your actual MongoDB connection string)
 MONGODB_URI=mongodb+srv://<username>:<password>@<cluster_url>?retryWrites=true&w=majority&appName=<cluster_name>
-
-Resend API Key (Replace with your actual Resend API key)
 RESEND_API=<your_resend_api_key>
-
-Stripe Secret Key (Replace with your actual Stripe secret key)
 STRIPE_SECRET_KEY=<your_stripe_secret_key>
-
-Secret Keys for Access and Refresh Tokens
 SECRET_KEY_ACCESS_TOKEN=<your_access_token_secret>
 SECRET_KEY_REFRESH_TOKEN=<your_refresh_token_secret>
-
-Cloudinary Credentials (Replace with your actual Cloudinary credentials)
 CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
 CLOUDINARY_API_KEY=<your_cloudinary_api_key>
 CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
-
-Frontend URL (Replace with your actual frontend URL)
 FRONTEND_URL=http://localhost:5173
 
 ## Assets File  
