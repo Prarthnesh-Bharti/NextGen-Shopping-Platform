@@ -17,4 +17,7 @@ Build a complete e-commerce platform that looks like Blinkit using the MERN stac
 - **Email Service**: Resend
 
 # Assets File
-Google Drive : https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing
+Google Drive :
+ https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing
+#Schema Design
+Link :[Schema.pdf](https://github.com/user-attachments/files/18254021/Schema.pdf)
