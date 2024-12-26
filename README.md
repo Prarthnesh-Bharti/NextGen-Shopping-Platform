@@ -38,6 +38,18 @@ We use **access and refresh tokens** for secure user authentication. The project
 - **Email Service**: Resend  
 
 ---
+## Assets File  
+
+**Google Drive Link**:  
+[Download Assets](https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing)  
+
+---
+
+## Schema Design  
+
+**Schema PDF**:  
+[View Schema Design](https://github.com/user-attachments/files/18254021/Schema.pdf)  
+
 
 ### .env.example Configuration
 
@@ -55,14 +67,3 @@ CLOUDINARY_API_KEY=<your_cloudinary_api_key>
 CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
 FRONTEND_URL=http://localhost:5173
 
-## Assets File  
-
-**Google Drive Link**:  
-[Download Assets](https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing)  
-
----
-
-## Schema Design  
-
-**Schema PDF**:  
-[View Schema Design](https://github.com/user-attachments/files/18254021/Schema.pdf)  
