@@ -12,9 +12,6 @@ We use **access and refresh tokens** for secure user authentication. The project
 - Password recovery  
 - OTP-based email verification  
 - Secure authentication processes  
-
-This project is a great way to improve your skills in **MongoDB, Express, React, and Node.js**.
-
 ---
 
 ## Demo  
