@@ -39,7 +39,11 @@ We use **access and refresh tokens** for secure user authentication. The project
 
 ---
 
-# Server configuration
+### .env.example Configuration
+
+To run the server, configure the environment variables by creating a `.env` file based on the template below. Replace the placeholders with your actual values.
+
+```bash
 PORT=8080
 MONGODB_URI=mongodb+srv://<username>:<password>@<cluster_url>?retryWrites=true&w=majority&appName=<cluster_name>
 RESEND_API=<your_resend_api_key>
